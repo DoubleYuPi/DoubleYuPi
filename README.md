@@ -1,5 +1,5 @@
 - 👋 Hi, My name is WILLIAM PHEDRA
-- 👀 I’m interested in Web/Mobile app Developing (FrontEnd) and Game dev 
+- 👀 I’m interested in Web/Mobile app Developing (FrontEnd/BackEnd) and Game dev 
 - 🌱 I’m currently learning Framework (Vue and React) and anything new that can boost my skills or interesting
 - 📫 How to reach me williamphedra@gmail.com
 
